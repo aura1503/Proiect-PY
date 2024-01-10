@@ -1,7 +1,7 @@
 # Proiect-PY
 Heart Rate Monitor
 Recomandări de instalare IDE
-Pentru o bună funcționare a aplicației, recomandăm utilizarea IDE-ului Thonny (Link de instalare: https://thonny.org/).
+Pentru o bună funcționare a aplicației, recomandăm utilizarea IDE-ului Thonny versiunea 4.1.4 (Link de instalare: https://thonny.org/).
 	Se deschide IDE-ul Thonny, iar din bara de sus se accesează meniul Tools -> Manage Plug-ins, se va deschide o nouă fereastră, iar în bara de search se tastează ”esptool” și se instalează.
 	Tot din bara de sus se mai accesează o data meniul Tools -> Options -> Interpreter și se alege MicroPython (ESP32). Pentru a putea rula MicroPython pe ESP32, din aceeași fereastră (meniul Tools -> Options -> Interpreter) se va apăsa pe ”Install or update MicroPython (esptool)” și se vor completa/alege setăile:
 •	se bifează caseta Erase all flash before installing (not just the write areas)
